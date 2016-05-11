@@ -1,0 +1,22 @@
+{
+  "name": "slack-webhook",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependency": {
+    "request-promise": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/you21979/node-slack-webhook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/you21979/node-slack-webhook/issues"
+  },
+  "homepage": "https://github.com/you21979/node-slack-webhook#readme"
+}
