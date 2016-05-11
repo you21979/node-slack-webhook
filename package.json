@@ -2,9 +2,10 @@
   "name": "slack-webhook",
   "version": "0.0.1",
   "description": "",
+  "private": true,
   "main": "index.js",
-  "dependency": {
-    "request-promise": ""
+  "dependencies": {
+    "request-promise": "3.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
